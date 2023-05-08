@@ -14,7 +14,7 @@ Your task will be to write the ETL script inside the analytics/analytics.py file
 
 ![solution](assets/solution_screenshot.png)
 
-To see the above result just run `docker compose run`
+To see the above result just run `docker compose up`
 
 
 # Some comments
